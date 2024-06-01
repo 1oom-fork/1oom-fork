@@ -1,4 +1,4 @@
-## I took a break from development because the process takes all my energy and I need to restore my health. Increasing the requirements for the new release revealed unexpected problems that I am not yet ready to solve.
+I took a break from development because the process takes all my energy and I need to restore my health. Increasing the requirements for the new release revealed unexpected problems that I am not yet ready to solve.
 
 <!--
 **1oom-fork/1oom-fork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
