@@ -1,4 +1,5 @@
-1oom-vanilla alpha coming soon
+1oom-vanilla alpha coming soon.
+
 Bug reports are welcome
 
 <!--
