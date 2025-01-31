@@ -1,4 +1,4 @@
-1oom-vanilla alpha coming soon.
+1oom-vanilla alpha released.
 
 Bug reports are welcome
 
