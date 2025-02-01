@@ -1,4 +1,5 @@
-1oom-vanilla alpha released.
+- 1oom-vanilla alpha released.
+- Starmap background fix added to MOO1 patcher.
 
 Bug reports are welcome
 
