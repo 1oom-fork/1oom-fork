@@ -1,6 +1,4 @@
-- 1oom-vanilla alpha released.
-- The first stage of testing 1oom-vanilla is completed,
-  the most serious errors have been fixed.
+- 1oom-vanilla: alpha testing is complete.
 - Starmap background fix added to MOO1 patcher.
 
 Bug reports are welcome
