@@ -1,3 +1,4 @@
+- 1oom-vanilla: saveconv is now built-in (-load)
 - 1oom-1.11.4: The project stubbornly loses its shortcomings.
 - 1oom-vanilla: alpha testing is complete.
 - Starmap background fix added to MOO1 patcher.
