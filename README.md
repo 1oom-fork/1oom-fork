@@ -1,3 +1,4 @@
+- An experimental option to disable animation delays has been added to the MOO1 patcher.
 - 1.11.x is now finally discontinued
 - 1oom-vanilla: saveconv is now built-in (-load)
 - 1oom-1.11.4: The project stubbornly loses its shortcomings.
