@@ -1,3 +1,4 @@
+- 1oom-vanilla: mouse behavior is getting closer to the original
 - An experimental option to disable animation delays has been added to MOO1 patcher.
 - 1.11.x is now finally discontinued
 - 1oom-vanilla: saveconv is now built-in (-load)
