@@ -2,10 +2,7 @@
 - 1oom-vanilla: mouse behavior is getting closer to the original
 - An experimental option to disable animation delays has been added to MOO1 patcher.
 - 1.11.x is now finally discontinued
-- 1oom-vanilla: saveconv is now built-in (-load)
-- 1oom-1.11.4: The project stubbornly loses its shortcomings.
 - 1oom-vanilla: alpha testing is complete.
-- Starmap background fix added to MOO1 patcher.
 
 Bug reports are welcome
 
