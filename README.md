@@ -1,3 +1,4 @@
+- 1oom-vanilla-beta-RC1 released: Save format changed to MOO v1.3
 - 1oom-vanilla: mouse behavior is getting closer to the original
 - An experimental option to disable animation delays has been added to MOO1 patcher.
 - 1.11.x is now finally discontinued
