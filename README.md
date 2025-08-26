@@ -1,4 +1,4 @@
-Warning: This is my only project related to the Master of Orion 1993 universe.
+Warning: This is my only project related to the Master of Orion 1993 universe as of 2025.
 
 - 1oom-vanilla-beta-RC1 released: Save format changed to MOO v1.3
 - 1oom-vanilla: mouse behavior is getting closer to the original
