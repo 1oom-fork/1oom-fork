@@ -1,5 +1,6 @@
 Warning: This is my only project related to the Master of Orion 1993 universe as of 2025.
 
+- The patch for MOO1.3 has been moved to the 1oom repository and fixed/filled.
 - 1oom-vanilla-beta-RC1 released: Save format changed to MOO v1.3
 - 1oom-vanilla: mouse behavior is getting closer to the original
 - An experimental option to disable animation delays has been added to MOO1 patcher.
