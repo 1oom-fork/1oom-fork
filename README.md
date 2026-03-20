@@ -1,14 +1,14 @@
+This page is at risk of being frozen.
+
+If you see this message in 2027 or later, please consider the Gitverse mirror as the current source.
+
+Account access lost due to SMS 2FA failure. Gitlab mirror added as a backup in case of unforeseen circumstances.
+
+Mirror: https://gitverse.ru/1oom-fork/1oom
+
+Mirror2: https://gitlab.com/1oom-fork/1oom
+
 Warning: This is my only project related to the Master of Orion 1993 universe as of 2025.
-
-- Fixed Oracle Interface in original 1.3
-- The patch for MOO1.3 has been moved to the 1oom repository and fixed/filled.
-- 1oom-vanilla-beta-RC1 released: Save format changed to MOO v1.3
-- 1oom-vanilla: mouse behavior is getting closer to the original
-- An experimental option to disable animation delays has been added to MOO1 patcher.
-- 1.11.x is now finally discontinued
-- 1oom-vanilla: alpha testing is complete.
-
-Bug reports are welcome
 
 <!--
 **1oom-fork/1oom-fork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
